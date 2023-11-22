@@ -8,7 +8,7 @@ This repository contains a Flappy Bird game project developed with JavaScript, H
 
 ## How to Play
 
-1. Clone this repository:
+Clone this repository:
 
    ```bash
    git clone https://github.com/yohmay/flappy-bird.git
