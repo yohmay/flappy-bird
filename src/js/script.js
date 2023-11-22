@@ -74,7 +74,7 @@ class Bird {
     let flying = false;
 
     this.element = createElement("img", "bird");
-    this.element.src = "images/bird.png";
+    this.element.src = "assets/images/bird.png";
 
     this.getY = () => parseInt(this.element.style.bottom.split("px")[0]);
     this.setY = (y) => (this.element.style.bottom = `${y}px`);
