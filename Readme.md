@@ -2,7 +2,7 @@
 
 This repository contains a Flappy Bird game project developed with JavaScript, HTML, and CSS.
 
-## Gameplay
+## Overview Gameplay
 
 <div  align="center">
    <img src="https://github.com/yohmay/flappy-bird/blob/main/src/assets/images/flappy-video.gif" alt="Flappy Bird Gameplay" width="450">
